@@ -1,0 +1,15 @@
+{
+    "name": "fangb/php-mts",
+    "autoload": {
+        "psr-4": {
+            "Fangb\\PhpMts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fangboli125",
+            "email": "fangboli1989@gmail.com"
+        }
+    ],
+    "require": {}
+}
